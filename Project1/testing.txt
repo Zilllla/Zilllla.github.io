@@ -1,0 +1,128 @@
+source info: 
+Pink Flamingos image: 
+https://www.latimes.com/entertainment/movies/la-ca-lists-0428-movie-events-revivals-20190428-story.html
+
+Santa Sangre:
+http://www.carolinatheatre.org/films/alejandro-jodorowsky%E2%80%99s-santa-sangre
+
+Holy Mountain:
+https://www.phoenix.org.uk/programme/the-holy-mountain/
+
+El Topo:
+https://medium.com/@maxfedyk/el-topo-a9ffe73af007
+
+Blood Feast:
+https://www.americangenrefilm.com/theatrical-film-catalog/blood-feast/
+
+Wizard of Gore:
+https://bloody-disgusting.com/editorials/3502031/butcher-block-herschell-gordon-lewis-wizard-gore/
+
+Basket Case:
+https://www.imdb.com/title/tt0083624/mediaviewer/rm1413962752
+
+Forbidden Zone:
+https://www.austinchronicle.com/daily/screens/2015-10-24/return-to-the-forbidden-zone/
+
+Sweet Movie:
+https://eefb.org/retrospectives/dusan-makavejevs-sweet-movie-1974/
+
+
+Gore Gore Girls:
+https://horrornews.net/76517/film-review-the-gore-gore-girls-1972/
+VHS:
+Photo by Chris Lawton on Unsplash
+
+FilmCamera:
+Photo by Noom Peerapong on Unsplash
+
+It wasn't until I started reading and found books they wouldn't let us read in school that I discovered you could be insane and happy and have a good life withouth being like everybody else.
+
+I always want to see films that are startling and amazing. Not just shocking. Shocking is easy to do. But startling in the way that makes you change how you think about things. Those are the movies I like the best. 
+
+<header>
+      <img src="./imgs/filmCamera (1).jpg">
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="bHorror.html">B-Horror</a></li>
+        <li><a href="noExp.html">No Explaination</a></li>
+        <li><a href="jodorowsky.html">Jodorowsky</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+  <div class="intro">
+    <h1>Title of Page</h1>
+    <h2>Description of Page</h2>
+  </div>
+
+
+<div class="container">
+
+  <div class="carousel-container">
+
+    <div class="previous-button">
+      <img src="./imgs/leftArrow.png">
+    </div>
+
+    <div class="carousel-images">
+      <img src="./imgs/bloodFeast.jpg" id="film1">
+      <img src="./imgs/pinkFlamingos.jpg" id="film2">
+      <img src="./imgs/santaSangre.jpg" id="film3">
+    </div>
+
+  <div class="next-button">
+    <img src="./imgs/rightArrow.png">
+  </div>
+
+  </div>
+</div>
+
+<dl>
+  <dt>Title</dt>
+  <dd id="title"></dd>
+
+  <dt>Year</dt>
+  <dd id="year"></dd>
+
+  <dt>Rating</dt>
+  <dd id="rating"></dd>
+
+  <dt>Director</dt>
+  <dd id="director"></dd>
+
+  <dt>Staring</dt>
+  <dd id="actors"></dd>
+
+  <dt>Plot Summary</dt>
+  <dd id="plot"></dd>
+</dl>
+
+
+
+Unlike the other segments of this site, which are divided by genre, this segment is centered around the writer, director Alejandro Jodorowsky. This Chilean-French writer, director, producer, musician, psychoanalyist (etc) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
