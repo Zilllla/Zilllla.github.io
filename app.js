@@ -23,7 +23,7 @@ $('.previous-button').on('click', () => {
 // link api info on click //
 // onclick for first film
 $('#film1').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=blood+feast'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=blood+feast'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -36,7 +36,7 @@ $('#film1').on('click', () => {
 
 // onclick for second film
 $('#film2').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=wizard+of+gore'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=wizard+of+gore'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -49,7 +49,7 @@ $('#film2').on('click', () => {
 
 // onclick for third film
 $('#film3').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=basket+case'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=basket+case'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -62,7 +62,7 @@ $('#film3').on('click', () => {
 
 // onclick for 4 - sweet movie
 $('#film4').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=sweet+movie'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=sweet+movie'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -75,7 +75,7 @@ $('#film4').on('click', () => {
 
 // film 5 - forbidden zone
 $('#film5').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=forbidden+zone'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=forbidden+zone'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -88,7 +88,7 @@ $('#film5').on('click', () => {
 
 // film 6 - pink pinkFlamingos
 $('#film6').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=pink+flamingos'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=pink+flamingos'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -100,7 +100,7 @@ $('#film6').on('click', () => {
 });
 // film 7 El Topo
 $('#film7').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=el+topo'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=el+topo'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -113,7 +113,7 @@ $('#film7').on('click', () => {
 
 // film 8 Holy holyMountain
 $('#film8').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=holy+mountain'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=holy+mountain'
 }).then(
   (data) => {
         $('#title').html(data.Title);
@@ -126,7 +126,7 @@ $('#film8').on('click', () => {
 
 // film 9 Santa santaSangre
 $('#film9').on('click', () => {
-  $.ajax({url:'http://www.omdbapi.com/?apikey=53aa2cd6&t=santa+sangre'
+  $.ajax({url:'https://www.omdbapi.com/?apikey=53aa2cd6&t=santa+sangre'
 }).then(
   (data) => {
         $('#title').html(data.Title);
